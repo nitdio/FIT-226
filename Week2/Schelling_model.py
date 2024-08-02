@@ -122,7 +122,7 @@ class Schelling_model:  # Class names should typically start with an uppercase l
 
 #hello
 
-a=Schelling_model(10,10)
+a=Schelling_model(N,M)
 a.run()
 
 
