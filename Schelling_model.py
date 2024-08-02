@@ -6,8 +6,8 @@ import copy
 random.seed()
 Density =0.8
 Threshold = 0.7
-N=10
-M=10
+N=11
+M=11
 class Agent:
     def __init__(self, agent_type, column, row):
         self.agent_type=agent_type
